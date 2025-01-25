@@ -1,7 +1,7 @@
----
+♥️♥️♥️
 manufacturer: 
     - realme
-
+♥️♥️♥️
 ---
 
 Luckily, the system restrictions are all gathered at one place in the system settings in Battery section, and also have some description there.
